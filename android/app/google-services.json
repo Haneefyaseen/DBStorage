@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175409982264",
+    "project_id": "sample-270b9",
+    "storage_bucket": "sample-270b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175409982264:android:336e633631372a45f2afcd",
+        "android_client_info": {
+          "package_name": "com.dbstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175409982264-1ur428dmtn821impe3fn7q57r4grb98a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExv3bE5LcbxV00SgJ2XaKUt5ZovZ5o-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175409982264-1ur428dmtn821impe3fn7q57r4grb98a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
